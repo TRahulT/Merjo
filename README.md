@@ -1,7 +1,6 @@
 # Merjo
-generate a readme.md file for the following:
 
-Clone this project using Project Repository Link
+
 topic: Installation: 
 1. install django 
 command: pip install django
